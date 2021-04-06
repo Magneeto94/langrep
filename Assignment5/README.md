@@ -59,6 +59,8 @@ By looking at the topics it looks like the 3. topic mostely conserns it self wit
 
 ## To run script
 
+Download the repo to your worker02 and run the bash script: "create_venv_ass5" to create the venv. Then activate it and run the python script "LDA.py".
 
+I was not able to upload the data file, and I am  not sure why. The script will not run with out. You can download the dataset from this website: https://www.kaggle.com/unanimad/reddit-rwallstreetbets
 
 
