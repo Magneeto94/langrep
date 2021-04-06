@@ -63,4 +63,6 @@ Download the repo to your worker02 and run the bash script: "create_venv_ass5" t
 
 I was not able to upload the data file, and I am  not sure why. The script will not run with out. You can download the dataset from this website: https://www.kaggle.com/unanimad/reddit-rwallstreetbets
 
+But you are still able to look at the graphs in the output folder.
+
 
