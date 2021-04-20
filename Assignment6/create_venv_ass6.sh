@@ -18,4 +18,7 @@ pip install seaborn
 
 test -f requirements.txt && pip install -r requirements.txt
 
+#unzipping the glove data and plasing the folder in the datafolder
+unzip data/glovedata.zip -d data
+
 deactivate
