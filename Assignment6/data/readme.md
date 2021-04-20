@@ -1,0 +1,3 @@
+- Download the folder to worker02.
+- run the create_venv_ass6 scritp to set up virtual inviorement
+- run the scripts with python baseline.py and python deeplearning.py
